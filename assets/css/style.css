@@ -1,0 +1,44 @@
+<style>
+
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+        background-image: url("../../assets/images/crossline-lines.png");
+        background-repeat: repeat;
+        background-attachment: scroll;
+
+    }
+
+    #headerAbove {
+        background-color: #ffffff;
+        border-color: #cccccc;
+    }
+
+    #nameTag {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #ebebeb;
+        background-color: #4aaaa5;
+        margin-left: 100px;
+        margin-right: 860px;
+        padding: 10px;
+    }
+
+    #headerTag {
+
+    }
+
+    #profilePhoto {
+        width: 25%;
+        height: 250px;
+        float: left;
+        margin: 0 15px;
+    }
+
+    #profileInfo {
+        float: left;
+    }
+
+</style>
